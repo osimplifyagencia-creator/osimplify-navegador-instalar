@@ -2,6 +2,8 @@
 
 A extensão de Chrome da Osimplify que deixa o Claude usar o seu navegador, já logado nas suas contas, numa janela separada. Este repositório traz a extensão pronta, sem precisar compilar nada.
 
+> Atalho: abra o Claude Code nesta pasta e peça "lê o PARA-O-CLAUDE.md e instala o Navegador Osimplify pra mim". O [PARA-O-CLAUDE.md](PARA-O-CLAUDE.md) é o guia escrito para o Claude: ele instala, te chama só no passo do Chrome e depois sabe usar.
+
 ## O que você precisa antes
 
 - Windows 10 ou 11.
